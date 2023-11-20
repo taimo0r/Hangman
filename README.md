@@ -1,6 +1,6 @@
 # Hangman iOS Game App
 
-![Hangman App](https://github.com/taimo0r/Hangman/blob/main/Screenshots/Hangman.png)
+<img src="https://github.com/taimo0r/Hangman/blob/main/Screenshots/Hangman.png" alt="Hangman App" width="400"/> 
 
 Welcome to the Hangman iOS Game App repository! This app was developed as a project for the iOS App Development course at Fanshawe College, Canada. It allows users to play the classic game of Hangman while also showcasing various iOS development concepts.
 
@@ -13,13 +13,9 @@ Welcome to the Hangman iOS Game App repository! This app was developed as a proj
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/taimo0r/Hangman/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-21%20at%2017.38.12.png)
+<img src="Screenshots/Simulator Screenshot - iPhone 14 Pro - 2023-08-21 at 17.38.12.png" alt="Screenshot 1" width="400"/>           <img src="Screenshots/Simulator Screenshot - iPhone 14 Pro - 2023-08-21 at 17.38.19.png" alt="Screenshot 2" width="400"/>     
 
-![Screenshot 2](https://github.com/taimo0r/Hangman/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-21%20at%2017.38.19.png)
-
-![Screenshot 3](https://github.com/taimo0r/Hangman/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-21%20at%2017.38.33.png)
-
-![Screenshot 4](https://github.com/taimo0r/Hangman/blob/main/Screenshots/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-21%20at%2017.38.50.png)
+<img src="Screenshots/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-21%20at%2017.38.33.png" alt="Screenshot 3" width="400"/>           <img src="Screenshots/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-08-21%20at%2017.38.50.png" alt="Screenshot 4" width="400"/>
 
 ## Technologies Used
 
