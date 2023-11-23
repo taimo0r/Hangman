@@ -1,8 +1,10 @@
 # Hangman iOS Game App
 
-<img src="https://github.com/taimo0r/Hangman/blob/main/Screenshots/Hangman.png" alt="Hangman App" width="400"/> 
+
 
 Welcome to the Hangman iOS Game App repository! This app was developed as a project for the iOS App Development course at Fanshawe College, Canada. It allows users to play the classic game of Hangman while also showcasing various iOS development concepts.
+
+<img src="https://github.com/taimo0r/Hangman/blob/main/Screenshots/Hangman.png" alt="Hangman App" width="400"/> 
 
 ## Features
 
@@ -20,7 +22,7 @@ Welcome to the Hangman iOS Game App repository! This app was developed as a proj
 ## Technologies Used
 
 - Swift Programming Language
-- UIKit Framework
+- SwiftUI Framework
 - Interface Builder (Storyboard)
 - Xcode IDE
 
